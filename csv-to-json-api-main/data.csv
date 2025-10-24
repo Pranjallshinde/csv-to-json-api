@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender                            
+Ria,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,female                                                 
+Jane,Doe,25,123 Main St,,Anytown,CA,female                                                                                
+John,Smith,50,456 Oak Ave,Apt 2,Banglore,NY,male                                                                         
+Peter,Jones,70,789 Pine St,,Mumbai,FL,male                                                                            
+Mary,Williams,18,101 Maple Dr,,Thane,TX,female   
